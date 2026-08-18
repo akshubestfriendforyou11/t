@@ -9,9 +9,9 @@
 #include <sys/socket.h>
 
 // ========== DIPANSHU'S MASTER CONFIG ==========
-#define OWNER_WATERMARK "@DRX_POWER"
+#define OWNER_WATERMARK ""
 #define EXPIRY_DAY 30
-#define EXPIRY_MONTH 6
+#define EXPIRY_MONTH 10
 #define EXPIRY_YEAR 2026
 // ===============================================
 
